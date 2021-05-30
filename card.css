@@ -37,11 +37,11 @@
 	overflow: visible;
 }
 #Rectangle_1 {
-	opacity: 0.9;
+	opacity: 0.85;
 	filter: blur(30px);
     column-fill: auto;
 	stroke: rgba(174,174,174,1);
-	stroke-width: 3px;
+	stroke-width: 1px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 3;
@@ -54,9 +54,6 @@
 	height: 529px;
 	left: 554px;
 	top: 313px;
-	background-color: #29A0DA;
-	opacity: 0.9;
-	border-radius: 15px;
 }
 #ID114-1149878_setting-user-ava {
 	position: absolute;

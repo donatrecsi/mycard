@@ -1,0 +1,185 @@
+
+.mediaViewInfo {
+	web-view-name: profile-card;
+	web-view-id: profile-card;
+	web-scale-on-resize: true;
+	web-application: true;
+	web-enable-deep-linking: true;
+}
+:root {
+	web-view-ids: profile-card;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#profile-card {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	web-view-name: profile-card;
+	web-view-id: profile-card;
+	web-scale-on-resize: true;
+	web-application: true;
+	web-enable-deep-linking: true;
+}
+#web-developer {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	opacity: 0.85;
+	filter: blur(30px);
+    column-fill: auto;
+	stroke: rgba(174,174,174,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 3;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 950px;
+	height: 529px;
+	left: 554px;
+	top: 313px;
+	background-color: #29A0DA;
+	opacity: 0.9;
+	border-radius: 15px;
+}
+#ID114-1149878_setting-user-ava {
+	position: absolute;
+	width: 263px;
+	height: 266px;
+	left: 1119px;
+	top: 180px;
+	overflow: visible;
+}
+#Rcsi_Dont {
+	mix-blend-mode: screen;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 692px;
+	top: 368px;
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(220,220,220,1);
+}
+#Webfejleszt {
+	left: 692px;
+	top: 444px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(223,217,217,1);
+}
+#Line_1 {
+	opacity: 0.89;
+	fill: transparent;
+	stroke: rgba(223,207,207,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 846px;
+	height: 19px;
+	left: 305px;
+	top: 532px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#nnek_a_legjobbat_a_leggyorsabb {
+	filter: drop-shadow(0px 3px 6px rgba(94, 0, 0, 0.161));
+	left: 692px;
+	top: 577.5px;
+	position: absolute;
+	overflow: visible;
+	width: 813px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(245,245,245,1);
+}
+#Line_2 {
+	opacity: 0.85;
+	fill: transparent;
+	stroke: rgba(228,213,213,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	mix-blend-mode: hard-light;
+	overflow: visible;
+	position: absolute;
+	width: 674.001px;
+	height: 2px;
+	left: 968px;
+	top: 671px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#iconfinder_2018_social_media_p {
+	opacity: 0.81;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1270px;
+	top: 776px;
+	overflow: visible;
+}
+#iconfinder_21-Gmail_3377042 {
+	opacity: 0.82;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1346px;
+	top: 776px;
+	overflow: visible;
+}
+#Contact {
+	left: 1244px;
+	top: 715px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe Script;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(245,245,245,1);
+}

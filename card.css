@@ -37,11 +37,11 @@
 	overflow: visible;
 }
 #Rectangle_1 {
-	opacity: 0.85;
+	opacity: 0.9;
 	filter: blur(30px);
     column-fill: auto;
 	stroke: rgba(174,174,174,1);
-	stroke-width: 2px;
+	stroke-width: 3px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 3;
